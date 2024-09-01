@@ -1,0 +1,185 @@
+[
+    {
+        "id": 89,
+        "name": "Farmers Pick", 
+        "amt": "299", 
+        "shop": "Pizza Hut", 
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/89.jpg", 
+        "latest": "No"
+    },
+    { 
+        "id": 124,
+        "name": "Paper Roast Dosa",
+        "amt": "65", 
+        "shop": "Sri Saivihar", 
+        "ftype": "Veg",
+        "pic": "https://www.app.tutorjoes.in/img/food/124.jpg",
+        "latest": "No"
+    },
+    { 
+        "id": 26, 
+        "name": "Alfredo Pasta",
+        "amt": "185", 
+        "shop": "LAKSHMI FOOD", 
+        "ftype": "Veg",
+        "pic": "https://www.app.tutorjoes.in/img/food/26.jpg", 
+        "latest": "Yes"
+    },
+    { 
+        "id": 9, 
+        "name": "Chicken 65", 
+        "amt": "220",
+        "shop": "Salem Rr Briyani", 
+        "ftype": "Non-Veg",
+        "pic": "https://www.app.tutorjoes.in/img/food/9.jpg", 
+        "latest": "No"
+    },
+
+     { 
+            "id": 10, 
+            "name": "Paneer Butter Masala", 
+            "amt": "250", 
+            "shop": "Paradise Restaurant", 
+            "ftype": "Veg", 
+            "pic": "https://www.app.tutorjoes.in/img/food/10.jpg", 
+            "latest": "Yes"
+        },
+        { 
+            "id": 11, 
+            "name": "Mutton Biryani", 
+            "amt": "300", 
+            "shop": "Behrouz Biryani", 
+            "ftype": "Non-Veg", 
+            "pic": "https://www.app.tutorjoes.in/img/food/11.jpg", 
+            "latest": "No"
+        },
+        { 
+            "id": 12, 
+            "name": "Veg Manchurian", 
+            "amt": "180", 
+            "shop": "Mainland China", 
+            "ftype": "Veg", 
+            "pic": "https://www.app.tutorjoes.in/img/food/12.jpg", 
+            "latest": "Yes"
+        },
+        { 
+            "id": 13, 
+            "name": "Fish Fry", 
+            "amt": "270", 
+            "shop": "Coastal Delights", 
+            "ftype": "Non-Veg", 
+            "pic": "https://www.app.tutorjoes.in/img/food/13.jpg", 
+            "latest": "No"
+        },
+        { 
+            "id": 14, 
+            "name": "Gobi 65", 
+            "amt": "150", 
+            "shop": "Salem RR Biryani", 
+            "ftype": "Veg", 
+            "pic": "https://www.app.tutorjoes.in/img/food/14.jpg", 
+            "latest": "Yes"
+        },
+        { 
+        "id": 15, 
+        "name": "Chicken Tikka", 
+        "amt": "200", 
+        "shop": "BBQ Nation", 
+        "ftype": "Non-Veg", 
+        "pic": "https://www.app.tutorjoes.in/img/food/15.jpg", 
+        "latest": "Yes"
+    },
+    { 
+        "id": 16, 
+        "name": "Pav Bhaji", 
+        "amt": "120", 
+        "shop": "Mumbai Delight", 
+        "ftype": "Veg", 
+        "pic": "https://www.app.tutorjoes.in/img/food/16.jpg", 
+        "latest": "No"
+    },
+    { 
+        "id": 17, 
+        "name": "Paneer Tikka", 
+        "amt": "200", 
+        "shop": "Punjabi Dhaba", 
+        "ftype": "Veg", 
+        "pic": "https://www.app.tutorjoes.in/img/food/17.jpg", 
+        "latest": "Yes"
+    },
+    { 
+        "id": 18, 
+        "name": "Prawn Masala", 
+        "amt": "350", 
+        "shop": "Seafood Paradise", 
+        "ftype": "Non-Veg", 
+        "pic": "https://www.app.tutorjoes.in/img/food/18.jpg", 
+        "latest": "No"
+    },
+    { 
+        "id": 19, 
+        "name": "Egg Curry", 
+        "amt": "150", 
+        "shop": "Home Treats", 
+        "ftype": "Non-Veg", 
+        "pic": "https://www.app.tutorjoes.in/img/food/19.jpg", 
+        "latest": "Yes"
+    },
+    { 
+        "id": 20, 
+        "name": "Chole Bhature", 
+        "amt": "130", 
+        "shop": "North Indian Spice", 
+        "ftype": "Veg", 
+        "pic": "https://www.app.tutorjoes.in/img/food/20.jpg", 
+        "latest": "No"
+    },
+    { 
+        "id": 21, 
+        "name": "Chicken Biryani", 
+        "amt": "280", 
+        "shop": "Hyderabadi Biryani House", 
+        "ftype": "Non-Veg", 
+        "pic": "https://www.app.tutorjoes.in/img/food/21.jpg", 
+        "latest": "Yes"
+    },
+    { 
+        "id": 22, 
+        "name": "Dosa with Sambar", 
+        "amt": "90", 
+        "shop": "South Indian Delight", 
+        "ftype": "Veg", 
+        "pic": "https://www.app.tutorjoes.in/img/food/22.jpg", 
+        "latest": "No"
+    },
+    { 
+        "id": 23, 
+        "name": "Chicken Shawarma", 
+        "amt": "150", 
+        "shop": "Arabian Nights", 
+        "ftype": "Non-Veg", 
+        "pic": "https://www.app.tutorjoes.in/img/food/23.jpg", 
+        "latest": "Yes"
+    },
+    { 
+        "id": 24, 
+        "name": "Veg Pulao", 
+        "amt": "160", 
+        "shop": "Biryani Blues", 
+        "ftype": "Veg", 
+        "pic": "https://www.app.tutorjoes.in/img/food/24.jpg", 
+        "latest": "No"
+    },
+    { 
+        "id": 25, 
+        "name": "Chicken Popcorn", 
+        "amt": "190", 
+        "shop": "KFC", 
+        "ftype": "Non-Veg", 
+        "pic": "https://www.app.tutorjoes.in/img/food/25.jpg", 
+        "latest": "Yes"
+    }
+    
+    
+]
